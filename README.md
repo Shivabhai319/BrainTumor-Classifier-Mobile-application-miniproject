@@ -12,6 +12,6 @@ Link to the APK file: https://github.com/Gokulmishra/BrainTumor-Classifier-Mobil
 ------------------------------------------------------------------------------------------------------
 Made by :
 <a href="https://github.com/Gokulmishra" target="_blank">Gokul Mishra</a><br />
-<a href="https://github.com/Shivabhai319" target="_blank">Shiva Atchyut</a><br />
+<a href="https://github.com/Shivabhai319" target="_blank">Akella Sivasai Atchyut</a><br />
 <a href="https://github.com/Sathvik3502" target="_blank">Chavata Sathwik</a><br />
 
